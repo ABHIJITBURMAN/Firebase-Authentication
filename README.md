@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Project Build Link: https://auth-development-9b894.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
